@@ -46,7 +46,7 @@ This project focuses on analyzing hotel reservation data to understand booking p
 The analysis provides useful insights into hotel reservation operations, booking trends, customer behavior, cancellations, and revenue performance. These insights can help improve operational planning and support data-driven business decisions.
 
 ## 📄 Project Presentation
-
+[View Project Presentation](./sql%20project.pptx)
 
 ## 👨‍💻 Project Type
 
